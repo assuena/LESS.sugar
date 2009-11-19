@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <language id="name.elliottcable.LESS">
+    <name>LESS</name>
+    
+    <root-zone>name.elliottcable.Espresso.Syntax.Expression.Regex</root-zone>
+    
+    <detectors>
+      <extension casesensitive="false">less</extension>
+    </detectors>
+  </language>
+  
+  <meta>
+    <name>LESS</name>
+    <description>A sugar for LESS (extended CSS) files.</description>
+    <author>elliottcable</author>
+    <identifier>name.elliottcable.Espresso.Sugar.LESS</identifier>
+    <version status="development">0</version>
+    <download format="git">git://github.com/elliottcable/less.sugar.git</download>
+    <url>http://github.com/elliottcable/less.sugar</url>
+  </meta>
+</settings>
