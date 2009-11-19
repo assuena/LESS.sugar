@@ -18,5 +18,8 @@
     <version status="development">0</version>
     <download format="git">git://github.com/elliottcable/less.sugar.git</download>
     <url>http://github.com/elliottcable/less.sugar</url>
+    <dependencies>
+      <dependency id="espresso.default.CSS">CSS</dependency>
+    </dependencies>
   </meta>
 </settings>
