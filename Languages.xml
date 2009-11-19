@@ -3,7 +3,7 @@
   <language id="name.elliottcable.LESS">
     <name>LESS</name>
     
-    <root-zone>name.elliottcable.Espresso.Syntax.Expression.Regex</root-zone>
+    <root-zone>name.elliottcable.Espresso.Declarative.LESS</root-zone>
     
     <detectors>
       <extension casesensitive="false">less</extension>
